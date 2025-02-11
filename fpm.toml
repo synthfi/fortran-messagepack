@@ -3,7 +3,7 @@ version = "0.3.1"
 license="MIT"
 author="Kelly Schultz"
 maintainer="ksjaculus@gmail.com"
-copyright="Copyright 2023, Kelly Schultz"
+copyright="Copyright 2025, Kelly Schultz"
 description="Implements an API for serializing & deserializing MessagePack"
 
 [[executable]]

@@ -4,11 +4,11 @@ Library for [MessagePack](https://msgpack.org/) support in fortran.
 ## Supported Build Systems
 | Build System | Targets | Known Working Versions |
 | --- | --- | --- |
-| Meson | messagepack | 0.61.2 |
-| CMake | messagepack | 3.22.1 |
-| FPM | . | 0.9.0, alpha |
+| Meson | messagepack | 1.3.2 |
+| CMake | messagepack | 3.28.3 |
+| FPM | . | 0.10.1, alpha |
 
-Known to work with `gfortran` 9.4.0 and above.
+Known to work with `gfortran` 13.3.0 and above.
 
 ## Requirements
 - Fortran 2008
